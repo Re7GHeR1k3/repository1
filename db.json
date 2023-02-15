@@ -1,0 +1,47 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"name": "Ivan",
+			"surname": "Miskevich",
+			"photo_url": "",
+			"balance": 1500
+		}
+		{
+			"id": 2,
+			"name": "Ivan2",
+			"surname": "Miskevich2",
+			"photo_url": "",
+			"balance": 6543
+		}
+		{
+			"id": 3,
+			"name": "Ivan3",
+			"surname": "Miskevich3",
+			"photo_url": "",
+			"balance": 1578
+		}
+	],
+
+	"products": [
+		{
+			"id": 1,
+			"name": "Arduino Uno",
+			"surname": "Electrinics",
+			"price": 90
+		}
+		{
+			"id": 2,
+			"name": "Arduino Nano",
+			"surname": "Electrinics",
+			"price": 59
+		}
+		{
+			"id": 3,
+			"name": "Arduino Leo",
+			"surname": "Electrinics",
+			"price": 765
+		}
+	]
+
+}
