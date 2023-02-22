@@ -3,23 +3,23 @@
 		{
 			"id": 1,
 			"name": "Ivan",
-			"surname": "Miskevich",
-			"photo_url": "",
+			"sirname": "Miskevich",
+			"photo_url": "https://s0.rbk.ru/v6_top_pics/media/img/9/14/754979567615149.jpg",
 			"balance": 1500
-		}
+		},
 		{
 			"id": 2,
 			"name": "Ivan2",
-			"surname": "Miskevich2",
-			"photo_url": "",
-			"balance": 6543
-		}
+			"sirname": "Miskevich2",
+			"photo_url": "https://s0.rbk.ru/v6_top_pics/media/img/9/14/754979567615149.jpg",
+			"balance": 2700
+		},
 		{
 			"id": 3,
 			"name": "Ivan3",
-			"surname": "Miskevich3",
-			"photo_url": "",
-			"balance": 1578
+			"sirname": "Miskevich3",
+			"photo_url": "https://s0.rbk.ru/v6_top_pics/media/img/9/14/754979567615149.jpg",
+			"balance": 6543
 		}
 	],
 
@@ -27,21 +27,20 @@
 		{
 			"id": 1,
 			"name": "Arduino Uno",
-			"surname": "Electrinics",
+			"duscription": "Electronics",
 			"price": 90
-		}
+		},
 		{
 			"id": 2,
 			"name": "Arduino Nano",
-			"surname": "Electrinics",
+			"duscription": "Electronics",
 			"price": 59
-		}
+		},
 		{
 			"id": 3,
-			"name": "Arduino Leo",
-			"surname": "Electrinics",
-			"price": 765
+			"name": "Arduino Leonardo",
+			"duscription": "Electronics",
+			"price": 600
 		}
 	]
-
 }
